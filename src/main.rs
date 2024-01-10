@@ -12,4 +12,5 @@ fn decompress() -> i32 {
         println!("Usage: {} <filename>", _args[0]); 
         return 1; 
     }       
+    println!("test"); 
 }
